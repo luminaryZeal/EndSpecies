@@ -1,0 +1,3 @@
+var int pop = new int;
+pop = 3;
+system.out.println( pop );
